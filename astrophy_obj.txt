@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # content of astrophy_obj.txt galaxy
 spiral galaxy
 ellipitcal galaxy
 bar  galaxy
 irregular galaxy
+=======
+# content of astrophy_obj.txt
+spiral
+ellipitcal
+barred
+irregular
+>>>>>>> astrophy_objects
